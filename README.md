@@ -3,7 +3,7 @@
 ## Hybrid Mobile Developer (currently on React Native)
 
 - 🔭 Actively post RN related topics on [Instagram](instagram)
-- 🌱 Open wide to any React Native project, hmu(work) immediately!
+- 🌱 Open wide to any React Native project, [hmu](work) immediately!
 - 👯 I’m looking to collaborate with other RN developer
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: check my Linked in to XD
