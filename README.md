@@ -1,12 +1,12 @@
-### Hi there, I am [Taufan](instagram)
+### Hi there, I am [Taufan][instagram]
 
 ## Hybrid Mobile Developer (currently on React Native)
 
-- 🔭 Actively post RN related topics on [Instagram](instagram)
-- 🌱 Open wide to any React Native project, [hmu](work) immediately!
+- 🔭 Actively post RN related topics on [Instagram][instagram]
+- 🌱 Open wide to any React Native project, [hmu][workplace] immediately!
 - 👯 I’m looking to collaborate with other RN developer
 - 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: check my Linked in to XD
+- ⚡ Fun fact: check my [LinkedIn][linkedin] to XD
 
 ### Connect with me:
 
@@ -65,7 +65,7 @@
 <!--[youtube]: https://youtube.com/codeSTACKr-->
 [instagram]: https://www.instagram.com/profennador/
 [linkedin]: https://linkedin.com/in/taufanp
-[work]: https://fastwork.id/user/fennarex
+[workplace]: https://fastwork.id/user/fennarex
 <!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt-->
 <!--[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B-->
 <!--[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4-->
