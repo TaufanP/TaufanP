@@ -5,8 +5,8 @@
 - 🔭 Actively post RN related topics on [Instagram][instagram]
 - 🌱 Open wide to any React Native project, [hmu][workplace] immediately!
 - 👯 I’m looking to collaborate with other RN developer
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: check my [LinkedIn][linkedin] too XD
+- 🥅 2023 goals: Contribute to Open Source projects
+- ⚡ Quick tip: check my [LinkedIn][linkedin] too XD
 
 ### Connect with me:
 
